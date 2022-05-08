@@ -1,7 +1,6 @@
 # discord-bot-basics
 
 [![image](https://img.shields.io/pypi/v/discord-bot-basics.svg)](https://pypi.python.org/pypi/discord-bot-basics)
-
 [![image](https://img.shields.io/conda/vn/conda-forge/discord-bot-basics.svg)](https://anaconda.org/conda-forge/discord-bot-basics)
 
 **This package contains some features that can be used a the bases for any discord bot**
